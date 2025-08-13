@@ -4,7 +4,7 @@
 ## Overview
 **Author**: Levon Gravett  
 **Developed For**: https://www.brokenpony.club  
-**Version**: 1.5.0  
+**Version**: 1.0.2  
 **Email**: levon@brokenpony.club
 
 A comprehensive WordPress plugin that provides seamless integration between WordPress (Houzez theme) and the Entegral Sync API. This plugin enables automatic property listing synchronization, office and agent management, and advanced field mapping with robust error handling and debugging capabilities.
